@@ -1,0 +1,9 @@
+{
+  "name": "InfinityHub - Mega SaaS Platform",
+  "description": "A multi-tier SaaS platform combining content creation, automation, marketing, and AI-driven innovation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
